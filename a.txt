@@ -1,2 +1,4 @@
 git is good
-Git is awesome
+Git is awesom
+add another for mistake
+e
