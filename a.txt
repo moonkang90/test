@@ -1,1 +1,2 @@
-Git is good
+git is good
+Git is awesome
